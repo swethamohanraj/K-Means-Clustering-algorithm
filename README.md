@@ -24,8 +24,8 @@ Predict the k means using kmean.predict() method and display the result.
 ## PROGRAM:
 ```
 To write a python program to implement K-Means Clustering Algorithm.
-Developed By: Aashima Nazreen Sayeed S
-Register Number: 21500368
+Developed By: K.M.Swetha
+Register Number: 21500844
 
 import pandas as pd
 from sklearn.cluster import KMeans
